@@ -28,6 +28,7 @@ const config = {
   skills: [
     'JavaScript',
     'React.js',
+    'TypeScript',
     'MySQL',
     'Git',
     'CSS',
