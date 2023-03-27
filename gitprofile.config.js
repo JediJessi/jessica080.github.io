@@ -7,7 +7,7 @@ const config = {
     limit: 2, // How many projects to display.
     exclude: {
       forks: false,
-      projects: ['Word-game', 'jessica080'],
+      projects: [],
     },
   },
   social: {
@@ -45,6 +45,12 @@ const config = {
     },
   ],
   education: [
+    {
+      institution: 'Unicid',
+      degree: 'Graduação, Análise e Desenvolvimento de Sistemas',
+      from: '2022',
+      to: '2023',
+    },
     {
       institution: 'Youtube Willian Justenx',
       degree: 'Mini-curso de TypeScript',
